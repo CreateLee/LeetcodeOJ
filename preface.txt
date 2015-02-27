@@ -1,0 +1,1771 @@
+THE 
+PRODUCT MANAGER 
+HANDBOOK
+Compiled by Carl Shan
+Designed by Brittany Cheng
+INTRODUCTION
+¡°What in the world is Product Management?¡±
+It was the above question, and my burning desire to learn the answer, that sparked the cre-
+ation of this handbook.
+You see, the inspiration for this handbook came when I was hired as an intern Product Man-
+ager in a large education technology company. At that point, although I had successfully im-
+pressed the interviewers with my background and passion for education to secure the job, I 
+still had relatively little idea what it really meant to be a Product Manager.
+Worried that I wouldn¡¯t be able to excel in my role, I decided to spend the few months until 
+my internship connecting with, interviewing, and learning from some of the best Product 
+Managers in the field.
+Fortunately, I was able to get in touch with some of the most brilliant, thoughtful and helpful 
+individuals working in Product Management. Hailing from companies like Google, Facebook 
+and Microsoft, these Product Managers not only agreed to share their insights with me, but 
+they also generously gave permission for their thoughts to be included in this handbook to be 
+distributed publicly with the entire world.
+What you have in front of you are the distilled and polished gems of wisdom that were un-
+earthed during the course of all these conversations.
+This handbook provides invaluable insight for anyone interested in working as a Product 
+Manager or who simply wants to learn about what it takes to build an excellent product. In 
+reading the conversations contained here, you will find career advice, product advice and 
+even life advice. 
+My dream is that the insights contained within this handbook will serve as inspiration for 
+people everywhere to create amazing products that improve the world.
+Enjoy.
+Carl Shan
+CONTENTS
+HOW TO GET A JOB AS A PM      4
+INTERVIEWS            8
+JEREMY CARR          8
+CLEARSLIDE
+JASON SHAH        13
+YAMMER
+LUKE SEGARS        17
+GOOGLE
+LILY HE         21
+WORK MARKET
+SUNIL SAHA        25
+PERKVILLE
+SEAN GABRIEL        29
+MICROSOFT
+DAVID SHEIN        34
+FACEBOOK
+PAUL ROSANIA       37
+TWITTER
+LAYLA AMJADI        45
+FACEBOOK
+AVICHAL GARG       52
+FACEBOOK
+ACKNOWLEDGMENTS      58
+ABOUT CARL & BRITTANY     59
+4
+HOW TO GET A JOB AS A 
+PRODUCT MANAGER
+People go to medical school to become a doctor and law school to become a lawyer, but what 
+do they do to become a product manager? Business school is one option, but there are many 
+others. Product management jobs are within reach of new graduates.
+How do you get into Product Management straight out of college?
+Big tech companies like Google, Microsoft, and Facebook are always hiring new grad prod-
+uct managers
+1
+. Write up your r¨¦sum¨¦ and head to your school¡¯s career fair to chat with the 
+recruiters. 
+If these companies aren¡¯t recruiting at your school, you¡¯ll need to network. Find friends who 
+can connect you with a recruiter, or try to connect with employees from the company using 
+Twitter, Quora, LinkedIn, or their blogs. Many employees are happy to refer people who have 
+shown a genuine interest in the company and have a strong resume.
+Some startups will also hire fresh college graduates into Product Manager roles, but this is 
+more unusual. Typically, to land such a role, you¡¯ll have to really stand out as a PM candidate 
+and get your foot in through your personal / professional network.
+1  Note: The name of this role might differ from company to company. Microsoft hires many new grads for Program Manager 
+roles, which is the equivalent of other companies¡¯ product manager roles. Microsoft also has a Product Manager role, but this is 
+more of a marketing function and is usually not entry level. Google has an entry-level role called a Associate Product Manager and 
+a more senior role called a Product Manager.
+Gayle Laakmann McDowell and Jackie Bavaro
+5
+How do you get a Product Management internship?
+Product Manager internships are obtained the same way that full-time PM roles are: through 
+career fairs and networking. The big tech companies tend to have PM internships, but the 
+smaller companies do not.
+What if you can¡¯t get a PM internship?
+If you can¡¯t get a PM internship but desperately want to be a PM, never fear! You can still get 
+a lot of relevant experience that will help you in your path to be a PM. Consider the following 
+paths.
+Option 1: Do a software development internship.
+Companies would ideally like their PMs to have strong technical skills, so a software devel-
+oper internship is a good time to boost your skills here. During your internship, look for ways 
+to show leadership. Can you volunteer to write up the spec for a new feature? Analyze data 
+that you¡¯ve gotten from customers? Maybe run a few meetings? Doing these things will help 
+you demonstrate PM talent.
+But should you go for a startup or a big company role? Both can be good paths.
+A big company will stick an excellent name on your resume, and give you an ¡°in¡± with a re-
+cruiter at that company. That could be very useful when you look for a PM role the following 
+year.
+On the other hand, startups often have less defined roles ¨C and lots of work to be done. They 
+are moving fast and the upcoming features may not be fully fleshed out. Guess who gets to 
+define them? The programmers. In this situation, you aren¡¯t a programmer; you¡¯re a ¡°pro-
+grammer++.¡± You have the opportunity to take on PM-like responsibilities even as a software 
+developer intern.
+Option 2: Build a side project
+Just because you¡¯re a student doesn¡¯t mean you can¡¯t be an entrepreneur ¡ª at least on your 
+own side project.
+If you have coding skills, you can build your own web or mobile application. This means that 
+you¡¯re developing your technical skills and your leadership and analytical skills. You are act-
+ing as a developer and a PM.
+Need money for your summer work? No problem. You can do software development consult-
+ing by taking on projects from Elance and oDesk. 
+If you don¡¯t have coding skills, you could use your summer to learn to code, you could part-
+ner with an engineer, you could (if you have the money) outsource development on oDesk 
+HOW TO GET A JOB AS A PM
+6
+or Elance, or you could launch something that doesn¡¯t require programming. There is a lot of 
+off-the-shelf software to help companies in specific niches.
+Building a side project is an excellent path for freshmen and sophomores who might other-
+wise have trouble obtaining an internship. Give your project a snazzy name and you might 
+even be able to list this under your resume¡¯s employment section, with you as Founder / CEO. 
+What do recruiters look for in PM candidates?
+The background of the ¡°perfect¡± PM varies across companies and even teams, but usually has 
+the following attributes:
+? Leadership
+? Analytical & Data Skills
+? Technical Skills
+? Initiative
+? Product Design Skills & Customer Focus
+? Strong Work Ethic
+Note that this is the perfect PM. Even many experienced industry PMs will be missing some 
+of these attributes.
+This can be a useful framework to approach your experience and resume from. How can you 
+demonstrate that you have these skills? If you don¡¯t yet have these skills (or haven¡¯t yet done 
+something to demonstrate that you do), how can you develop these skills?
+For example, a student from a strong school with a major in Computer Science and a strong 
+GPA might get a phone screen just by handing in her resume. Her major shows technical skills 
+and her GPA is a signal of work ethic. However, her resume would be even stronger if she had 
+launched a programming contest on campus. That shows initiative.
+Although some of these attributes sound ¡°fluffy,¡± they can all be demonstrated through con-
+crete actions.
+? Leadership? Become a president of a club or lead an organization.
+? Analytical / data skills? Quantitative coursework (computer science, math, physics, eco-
+nomics, etc) can demonstrate you know your stuff here.
+? Technical skills? A Computer Science major or minor will do the trick. Or you can learn to 
+code and list some projects you¡¯ve done on your resume. Or, even if you don¡¯t know how 
+to code, you can at least maintain your own website.
+? Initiative? Do some side projects for fun. Launch a club. Organize a school-wide volunteer 
+effort.
+? Product Design skills / customer focus? Focus on creating a beautiful application ¡ª and 
+provide screenshots on your resume. If the aesthetics of application design aren¡¯t your 
+HOW TO GET A JOB AS A PM
+7
+thing, get a friend to help you out with it, while you focus on getting a feature set that re-
+ally addresses your user¡¯s needs. 
+? Work ethic? A good GPA, a bunch of projects, or basically anything difficult that you¡¯ve 
+been successful in shows work ethic. One student listed on his resume that he ¡°completed 
+62 miles of a 100 mile ultra-marathon, after getting injuring ankle on mile 30.¡± This might 
+not have been the most medically sound decision, but it did show perseverance. (Yes, his 
+interviewers asked about this!) He¡¯s now working his butt off as a PM for Apple.
+Demonstrating these doesn¡¯t mean demonstrating them all separately. In fact, a single side 
+project could show all five of these aspects.
+Once you¡¯ve made good progress with some of these aspects, add what you did to your re-
+sume and apply for a PM job. As you meet with people, talk about what you did and the 
+choices you made. You¡¯ve just created PM experience for yourself!
+HOW TO GET A JOB AS A PM
+This advice to aspiring Product Managers was kindly contributed by Gayle McDowell, author of 
+¡°Cracking the Coding Interview¡± (and ex-Google, Microsoft, and Apple engineer), and Jackie Bava-
+ro, a Product Manager at Asana (and ex-Google and Microsoft PM). You can learn more about their 
+thoughts on how to land and excel in a Product or Program Manager job and interview through their 
+upcoming book ¡°Cracking the PM Interview.¡± The book is estimated to be released in Fall 2013. Sign 
+up to be notified when the book is released at www.crackingthepminterview.com, or search for it on 
+Amazon.
+8
+JEREMY CARR
+Director of Product at ClearSlide
+JEREMY¡¯S BACKGROUND
+Jeremy is the Director of Product at ClearSlide, where he focuses on data and analytic prod-
+ucts. ClearSlide is a sales engagement platform that helps to close more deals faster. Previous-
+ly, he held product leadership roles at Palantir, Stylemob (acquired by Glam), and Videoegg 
+(now Say Media). 
+He earned an MS in management science and engineering from Stanford and BA in computer 
+science and economics from Carleton College.  
+SUMMARY OF JEREMY¡¯S INTERVIEW
+In his following interview, Jeremy shares:
+? The thought experiment Product Managers can use to figure out what skills to build
+? The 5 top career metrics he uses to track his own success
+? Specific product design skills to learn as a Product Manager
+? His thoughts on the potential conflict between ambition and contentment
+? And more...
+Read on to learn more from Jeremy!
+9
+JEREMY¡¯S ANSWERS
+In your opinion, what are the goals and purpose of Product Managers? And as some-
+one who is not coming from the engineering side of things, what are some of the 
+most valuable skills I could develop in a 3-month internship as a Product Manage-
+ment intern?
+In terms of understanding the goals and purposes of a PM, I would suggest reading Ben 
+Horowitz¡¯s piece on ¡®Good Product Managers, Bad Product Managers.¡¯
+As for skills, I would recommend to start developing your-
+self on the design side of product (ability to prototype), 
+and/or the technical side of product (substantively know 
+what you¡¯re talking about; be able to estimate how long 
+things will take and think through details).
+A useful heuristic to use in thinking about this is to imagine there just being two people on 
+the product team: you and a developer. How would you contribute? This thought experiment 
+distills more clearly the skills you might be interested in developing to build a solid founda-
+tion, whether you stay working in startups or not. Another approach is to think of a team that 
+is comprised of yourself, five developers, one designer, and one QA person. Now how will 
+you contribute?  Communication, organization, GTD, and good project management become 
+more relevant.
+Specific design skills that are worthwhile to pick up would be to look into wireframing (e.g., 
+using tools like Visio, Balsamiq), fundamental UX principles and design (higher-resolution 
+mockups; concepts of user flow), graphic design (Photoshop or Illustrator), and potentially 
+learning JavaScript (AJAX and jQuery are pretty important),  etc.
+Additionally if you¡¯re looking for principles on a life well lived, you should check out Ray 
+Dalio¡¯s ¡°Principles¡±. He¡¯s someone who¡¯s done a lot of deep thinking on this. Another book I 
+would recommend is Peter Bevelin¡¯s ¡°Seeking Wisdom¡±.
+What could an intern or newly hired Product Manager do to add value as quickly as 
+possible?
+Domain: within first few weeks, try to find a project with measurable impact you want to de-
+liver on over the course of your internship. Then make sure that you execute on it.
+Skills: each product management opportunity is different, but functionally, they¡¯re typically 
+design (information architecture, UX, or graphic design), development/spec¡¯ing (detail-orien-
+tation, learning to work with engineering, etc), or project management (ticketing, prioritiza-
+tion, etc). Make sure that you leave the internship having built some of these skills.
+Personally, I also think you should use this to assess what you enjoy doing on a day to day 
+How will you contribute?
+10
+basis. It¡¯s hard to maintain focus and discipline if you¡¯re working on a part of the stack that 
+you don¡¯t find engaging.
+What mental models or criteria do you use to judge the success of a product?
+On the business side, there are many books on KPI¡¯s. Familiarize yourself with those con-
+cepts. Be clear about how the feature/product is contributing to the overall success of the com-
+pany. Ask yourself ¡°if this were wildly successful, what would that look like?¡±  Important to 
+consider whether the feature/product you¡¯re working on is an experiment or an incremental 
+improvement; will drastically change how you evaluate its success.
+Assessing the technical quality of a product is tricky 
+from a product standpoint.  You certainly need to en-
+sure the user flows make sense, and that no ¡°bugs¡± 
+that are actually unintended consequences make it 
+into your designs.  Beyond that, a lot of the technical 
+merit of your product will rely on the technical team 
+you work with, and an engineering manager.  Con-
+cepts like regression testing, test driven design, uptime, dev - staging - launch process...are all 
+useful technical concepts to stay on top of.
+What are the metrics you use in measuring your own success? Which ones are the 
+highest priority, and why?
+1. Product: Am I effectively balancing the interests of shareholders, customers, and employ-
+ees? Can I build a roadmap that captures the vision of the executive team/customers?  Can 
+I get consensus and/or buy-in for that? Can I deliver on time with good quality? 
+2. Leadership: Can I motivate my team? Can I point folks in the right direction? Can I remove 
+roadblocks from them quickly and effectively? 
+Three additional things I will say are good rules of thumb to follow in tracking your own 
+career are:
+1. Focus on the quality of people you¡¯re working with. That¡¯s why I joined Palantir and am 
+still invested in the alumni network, as well as ClearSlide. The people I work with are 
+amazing, and I¡¯m sure will be doing some incredible things in the future.  With good com-
+pany, no road is long.
+2. Look at the individual contributions you can make. What skills are you building? For ex-
+ample, as a PM who may not be coming from an entirely technical background, it would 
+be valuable to deeply understand marketing and distribution channels. 
+3. Have a personal narrative that you feel comfortable sharing with others, as well as inter-
+nalizing. You should be able to tie together a cohesive story. The things you pursue in the 
+future should in some way be compounding upon the things you¡¯ve done in the past. Look 
+at the amount of opportunities you receive to learn new things.
+Ask yourself ¡°if this were 
+wildly successful, what would 
+that look like?¡±
+JEREMY CARR
+11
+For me personally, I try to stick to thinking about the short and medium term. I look at things 
+in the 3 to 5-year range. I find it hard to plan beyond that, and consider life an endless se-
+quence of emergent effects.  For some people, they have a life goal such as becoming VP of 
+Product at Amazon. And that may work for them. But I think there¡¯s a lot of serendipity in life, 
+and I¡¯m very much open to possibilities that I can¡¯t imagine right now.
+I think if you¡¯re engaged day to day in your role, 
+things are more likely than not to turn out for the 
+better. I am not a fan of living a deferred life plan, 
+which is the notion of putting off today what you 
+really want to do in favor of some things you think 
+you ¡°need¡± to do. So whatever it is that your career 
+entails, try to make it something you¡¯re genuinely enjoying.
+I have friends who tell me they¡¯re uncomfortable deeply valuing happiness and con-
+tentment in their own lives as they are concerned it will stifle ambition. Do you have 
+any thoughts here, especially in the context of you¡¯ve just mentioned about enjoying 
+every day?
+Is happiness and contentment really at odds with ambition?  I think people frequently confuse 
+contentment and happiness for its more malicious relative ¡ª complacency. Complacency 
+leads to the stifling stagnation that results in dissatisfaction down the road. Fundamentally, 
+ambition is a strong desire to achieve something; from a scientific mindset it¡¯s as simple as 
+wanting to solve problems and answer questions.
+There are also some companies that I think we can agree are very ambitious companies, all 
+while maintaining a sense of play. I think some of the most successful companies in the Valley 
+are great examples of successfully implementing this type of culture. Facebook and Palantir 
+are two examples. Learning from these examples can help us to better understand why happi-
+ness doesn¡¯t necessarily conflict with ambition. I embrace goal-oriented environments, which 
+can be hard charging but I ultimately find fulfilling.
+When I speak with older professionals or more successful professionals, one thing I notice is 
+that they¡¯ve largely figured out their work/life balance. There are two types of hard work that 
+entrepreneurs (or really anyone) tend to be engaged in:
+1. Sustainable hard work
+2. Unsustainable hard work
+You may be able to maintain the unsustainable kind for months, or even years. But I¡¯d urge 
+such a person to at least note its impact on one¡¯s life ¡ª it probably looks like living a shitty life 
+right now. So I¡¯d encourage folks to find sustainable work. Keep in mind that, with all of these 
+things (startups, success, life), it¡¯s a marathon, not a sprint.
+I guess I have a different perspective on this than many Silicon Valley technologists because 
+I travel a lot and have seen a lot of alternative ways of living that are outside of the Silicon 
+Valley bubble.
+Focus on the quality of the 
+people you¡¯re working with.
+JEREMY CARR
+12
+I¡¯ve often heard the advice that I should do a ¡°technical¡± job first for a few years be-
+fore jumping into PM, because it¡¯s hard to switch back to a ¡°technical¡± job (such as 
+programming, designing) after doing a PM role. What do you think of this advice? Is 
+it a good idea to jump right into the PM role after graduation, or is it better to do a 
+regular role first and move in to the PM role?
+There are different types of PMs. At a small company, Product Managers need to be able to 
+contribute to real product creation. At larger companies, not necessarily. But generally, the 
+more technical you are, the better (it gives you a leg up against the army of MBA¡¯s that also 
+want to be PMs). How will you differentiate yourself if you do a PM role immediately after 
+graduation?
+JEREMY CARR
+13
+JASON SHAH
+Product Manager at Yammer
+JASON¡¯S BACKGROUND
+Jason is a Product Manager at Yammer, where he focuses on building out new features for the 
+leading enterprise social network. He is also the founder of HeatData, a mobile web heatmap-
+ping and analytics tool. 
+Prior to Yammer, Jason founded INeedAPencil.com, which provides free online education 
+tools to students from low-income families. After growing INeedAPencil.com to more than 
+50,000 users with an average score increase of 202 points, Jason sold INeedAPencil.com to 
+CK12 in 2011.
+Jason holds an AB with honors from Harvard College with degrees in sociology and computer 
+science. He blogs regularly at blog.jasonshah.org and tweets shorter thoughts at @jasonyoges-
+hshah. 
+SUMMARY OF JASON¡¯S INTERVIEW
+In his following interview, Jason elaborates on:
+? A story that illustrates the goals of Product Managers
+? The 3 important skills for interns to learn 
+? How a Product Manager could compensate for a non-technical background
+? And more...
+Read on to learn more from Jason!
+14
+JASON¡¯S ANSWERS
+In your opinion, what are the goals and purpose of Product Managers? What are 
+some of the most valuable skills that a young intern aspiring to be a Product Man-
+ager could develop?
+The goal of Product Managers is to help a team build the best product possible - through 
+prioritizing what to work on, helping design beautiful user experiences, guiding engineering 
+to avoid roadblocks while leaving them autonomous, and working with all other parts of the 
+organization to provide transparency and input into the product development process.
+One way to look at it is to see that part of the role is to 
+make engineering go faster.
+Overall, you want to empower the engineering team, 
+the designers, the analytics team, etc. Your job isn¡¯t as 
+concrete as other disciplines, so you need to be good at 
+supporting those other roles.
+A story that illustrates the points made above relates to something that I worked on recently 
+at Yammer. This feature allowed users to mention Pending Users. Pending Users are people 
+who began to sign up but haven¡¯t activated their accounts yet. Now, just thinking about this, 
+it¡¯s not a particularly inspiring feature. The name of the feature is quite boring, admittedly. 
+But it¡¯s a crucial one, and you need to, as Product Manager, be able to have the vision to see 
+its power and explain why it¡¯s such a valuable part of the product.
+For example, I framed it in terms of the larger vision of connecting employees and accelerating 
+collaboration. It¡¯s important to be able to communicate with (via mentioning) people in your 
+company, whether or not they are registered for Yammer, and we can never replace email un-
+til we nail that. With that vision, people could easily see the value in what we were building.
+As an intern, it¡¯s going to be especially difficult to be a successful Product Manager, because 
+you¡¯re in a ramp-up period of three to six months before you really get the hang of things. So 
+for valuable skills, I would say:
+1. Prioritization: This is hard as a PM. With limited resources and a backlog of projects, you 
+need to make sure you identify the highest-impact projects to work on. Your choice of 
+prioritization impacts everything: what gets built, how the rest of the product is affected, 
+the morale of the teams working on the feature. You should be using data, user research, 
+product vision, and an understanding of engineering costs to help prioritize features.
+2. Vision: Anyone can come in and suggest we move a pixel here and a pixel there. Where 
+do you see the product going in three to five years? What about the product today is being 
+missed by our users? How do we turn a moderately successful app into a sensation?
+3. Analytics: PMs today need to be data-informed. You should be looking at how people use 
+your product and generating ideas there (in addition to more green-field brainstorming). 
+You want to empower the 
+engineering team.
+15
+You should be measuring the performance of features rigorously and only releasing what 
+does well and killing what doesn¡¯t.
+I¡¯ve heard that it¡¯s heavily preferred for Product Managers to have technical back-
+grounds (e.g., they¡¯ve previously been engineers). What advice would you give to 
+someone who may not have as much of a technical background but is still aspiring 
+to work as a Product Manager?
+The reason it¡¯s valuable for PMs to be technical is be-
+cause it allows them to make good tradeoffs. Tech-
+nical PMs understand engineering costs. As a result, 
+these PMs can make better decisions about what will 
+return the greatest benefits for the least costs and how 
+to build true MVPs (minimum viable products).
+So while you need not be completely technical, you have to be able to build credibility and 
+then complement it with actual skills. So the fact that you have some rudimentary under-
+standing of computer science will help you avoid any large faux pas.
+Ideally, you want to position yourself to be in a company working with engineers who also 
+have some product sense so that you don¡¯t need to dictate every last detail.
+If you are not technical, try to pick up some understanding of basic concepts: performance, 
+frontend and backend, APIs, etc. There is no way around this.
+Sit with your engineering team to understand how they build and what their key constraints 
+are. Try to unblock them. When you have a feature idea, get engineering input. Over time you 
+will learn what is expensive and what is cheap (in engineering terms). When something is 
+expensive, you want to aim to build a minimum viable product to validate your idea early or 
+have an extremely good justification of the engineering investment.
+The point is that you should be making intelligent decisions that others will respect, regard-
+less of your level of technical background.
+As an intern, I¡¯m concerned about the level of impact I can have in just three months 
+at a company. I want to learn a lot, and think I will, but I also want to get a chance to 
+actually make an impact. How did you spend your first three months in your first PM 
+role, and what would you do differently if you could redo it?
+My first three months were spent largely in shadowing other Product Managers, studying 
+what¡¯s good and bad about our product and competitors¡¯, and understanding how our prod-
+uct development process works.
+If you want to maximize your learning and growth as someone who¡¯s aspiring to be a Product 
+Manager, I believe you should shadow other folks on the product team ¡ª PMs, designers, 
+even engineers. Understand how people work. It will help you figure out how to be effective.
+JASON SHAH
+Your choice of prioritization 
+impacts everything.
+16
+Another thing I¡¯d say is to research what the product has been in the past: try to understand 
+how the team got to where it is today. What was the MVP version of this product? It will show 
+you what has been prioritized in the past and how the team is thinking today. Check out past 
+A/B tests that they ran to better understand what¡¯s been changed and how certain hypotheses 
+worked or failed.
+ 
+What are some mental models you use to view the quality of a product? In other 
+words, what are the criteria you use for judging how successful a product is?
+At a high level, I ask myself: ¡°What is the user¡¯s 
+goal?¡± and ¡°How hard does this product make it to 
+accomplish that goal?¡± It shouldn¡¯t be that hard to 
+get done what you need to get done as a user. If it¡¯s 
+Airbnb, it should be easy to book a good place to 
+stay. If you¡¯re Uber, it should be easy to get a black 
+car fast. If you¡¯re Google Search, it should be easy to 
+find the right information.
+From a metrics standpoint, you can also measure a product by the following:
+1. Retention: But also understanding the nuances within retention (e.g. one day vs. seven 
+days vs. six months).
+2. Engagement: Level of interaction and the durations that people are on Yammer.
+3. Virality: How many new users are our current users inviting and converting.
+Deeply engage with and listen 
+to the senior product people 
+on the team.
+JASON SHAH
+17
+LUKE SEGARS
+Product Manager at Google
+LUKE¡¯S BACKGROUND
+Luke got his bachelors and masters degrees in computer science before stumbling upon a 
+Product Management internship at Google. He spent a summer working on search ads and 
+decided that he really enjoyed the work and wanted to continue. He¡¯s now at Google full time 
+and has worked on search and YouTube products. 
+SUMMARY OF LUKE¡¯S INTERVIEW
+In his following interview, Luke raises many thoughtful points, including:
+? The top 3 most important objectives are as a Product Manager
+? Whether a technical background is necessary for success at Product Management
+? The most valuable skills to learn as an aspiring Product Manager
+? And more!
+Read on to learn from Luke!
+18
+LUKE¡¯S ANSWERS
+In your opinion, what are the goals and purpose of Product Managers? What are 
+some of the most valuable skills that a young aspiring Product Manager could de-
+velop?
+The job of a Product Manager is to identify real 
+world problems and to come up with ways to solve 
+them. It¡¯s an inherently social job because (1) the 
+best solutions rarely come from one person and (2) 
+successful products aren¡¯t developed in a vacuum. 
+It also requires a degree of scrappiness ¡ª a lot of 
+things go into making a successful product and 
+there isn¡¯t always an obvious person to do everything. The PM can often pick that stuff up.
+The most valuable skills that you can learn in an internship are going to vary a lot. For me:
+1. What goes into developing a product outside of coming up with an idea and building it? 
+Hint: there are lots of answers.
+2. How to pitch an idea, and how to tell a good idea from a bad one. What makes an idea 
+stick? What makes a project succeed or fail aside from the capabilities of the individuals 
+that are involved?
+3. Learn how to structure your thinking. Many creative people are able to explode forth with 
+creative ideas. Coming up with a meaningful and communicable structure for those ideas 
+is at least as important as coming up with them in the first place.
+I¡¯ve heard that it¡¯s heavily preferred for Product Managers to have technical back-
+grounds (e.g., they¡¯ve previously been engineers). What advice would you give to 
+someone who may not have as much of a technical background but is still aspiring 
+to work as a Product Manager?
+Talk with engineers. Find people who are willing to spend time explaining things and soak it 
+all in. Having technical experience is important but having an interest in and appreciation for 
+development is really important as well. I wouldn¡¯t try to fake it, but just make it clear that 
+you¡¯re interested and I bet you¡¯ll be able to find people who can teach you.
+What advice would you give to a young Product Manager just starting in his or her 
+role? How could they allocate their time and energy so as to make a meaningful im-
+pact in the first few months of the job? How did you spend your first few months in 
+your first PM role, and what would you do differently if you could redo it?
+I created a new ad format for Google search, specifically targeted at music labels. There was a 
+Identify real world problems 
+and come up with ways to 
+solve them.
+19
+ton to learn and, at least in my case, a ton to do. One of the things that I did well was pushing 
+beyond my comfort zone to do things that needed to be done and make fast progress on my 
+project.
+One trap I¡¯ve fallen into since I¡¯ve come back is accepting too much work. Here is how I would 
+rank your objectives when you start if you¡¯re actually interested in product management as a 
+career:
+1. Learn.
+2. Do high quality work.
+3. Do lots of things.
+Unfortunately it¡¯s really, really hard to do all three well. Product Management is an extremely 
+flexible field with a lot of different required skills, so investing explicit effort into improving 
+some of those skills is likely to make the rest of your life much, much better.
+What are some mental models you use to view the quality of a product? In other 
+words, what are the criteria you use for judging how successful a product is?
+That depends a lot on the product. My favorite cri-
+teria: how useful is this product vs the next best 
+thing? A product that helps rural farmers in under-
+developed regions find places to sell their crops can 
+have a tremendous impact compared to a watch 
+that let¡¯s you check text messages two seconds fast-
+er than you would on your phone, though the latter is shinier and likely to make more money.
+On the other hand, money isn¡¯t something to be discounted. Currency, I suppose, is one of the 
+signals we have to to measure the quality of a product in the public eye, though I think that¡¯s 
+a simplified view of the scene in many (potentially dangerous) ways.
+Who are Product Managers in your field that you admire? What traits do you admire 
+about them?
+There are a number of people that I¡¯ve met at Google that I admire. Some of the ones that 
+stand out work as PM¡¯s and lead engineers. One of the most admirable qualities that I¡¯ve en-
+countered is when these people have a very strong sense of what direction a product should 
+take and are able to articulate that reasoning clearly. This is an important skill and in my opin-
+ion a pretty tough one as well.
+What are the metrics you use in measuring your own success? Which ones are the 
+highest priority, and why?
+1. Quality of relationships with peers.
+LUKE SEGARS
+How useful is the product vs 
+the next best thing?
+20
+2. Regularity of high-quality product releases.
+3. General organization on a day to day basis.
+I¡¯d say I evaluate myself primarily along those criteria, and roughly in that order. This one 
+probably varies more than any of your other questions depending on the company you work 
+for and particular product within that company.
+I¡¯ve often heard the advice that I should do a ¡°technical¡± job first for a few years 
+before jumping into PM, because it¡¯s hard to switch back to a ¡°technical¡± job (such 
+as programming, designing) after doing a PM role. Do you think it¡¯s a better idea to 
+jump right into the PM role after graduation, or should I do a regular role first and 
+move in to the PM role?
+I don¡¯t have any experience to base it on but I 
+got the same advice. I¡¯ve found my technical 
+knowledge to be adequate for getting by with 
+a very technical team. It undoubtedly would 
+have helped to do some actual engineering for 
+a while, but it¡¯s not clear that it¡¯d be more useful 
+than a year or two of product experience. I think 
+the underlying critical bit is to BE CURIOUS and CONTINUE TO LEARN. If you do that then 
+I don¡¯t think skipping the engineering step is a huge mistake.
+LUKE SEGARS
+Investing explicit effort is likely to 
+make the rest of your life much, 
+much easier.
+21
+LILY HE
+Product Manager at Work Market
+LILY¡¯S BACKGROUND
+Lily graduated from MIT with bachelor degrees in math and finance. After graduation, she 
+worked in trading and consulting before transitioning into product management at Work 
+Market, where she works currently. 
+SUMMARY OF LILY¡¯S INTERVIEW 
+ 
+In her following interview, Lily shares her experience on:
+? Her atypical background and what led her to Product Management
+? What¡¯s unique about being a PM at a startup
+? The techniques she used to switch careers into Product Management
+? And more!
+Read on to learn more from Lily!
+22
+LILY¡¯S ANSWERS
+Can you talk a little bit about your background and what led you to product manage-
+ment?
+My path to product management is atypical. With a background in finance and math, I had 
+worked in trading and consulting before joining the product management team at Work Mar-
+ket. While being on the trading floor is often exciting and nerve-racking, I have always been 
+interested to be part of a growing business that is constantly innovating and building prod-
+ucts that customers will love. I first transitioned from trading into consulting ¡ª you may call 
+it a ¡°safe¡± switch ¡ª in order to build my business analytical skills and intuition. However, I 
+quickly realized that I wanted to be more proactive, rather than just advising clients on solu-
+tions and ideas, and become more actively involved with the product, tactics, and strategy of 
+single company; thus, finding my way to Work Market. 
+What is Work Market?
+Work Market is a cloud-based contractor man-
+agement platform that is connected to an online 
+marketplace of professionals seeking work assign-
+ments. Built to allow scalability, increase produc-
+tivity, and enhance the quality of both contractors 
+and the work that they fulfill, Work Market enables 
+enterprise organizations to do more than take control of skyrocketing operating costs ¡ª it 
+empowers them to actually reduce costs and drive efficiency into their business.
+If you were standing in a first-grade classroom and had to explain to the students 
+what a Product Manager is, what would you tell them?
+A Product Manager is someone who takes an idea and brings it to reality. They use all the 
+tools they have at their disposal to turn their idea into a product that their customers would 
+love and need. 
+What are some roles and responsibilities a Product Manager has at a company?
+First and foremost, a Product Manager needs to be passionate about the product that they are 
+building. Their typical tasks include: writing specifications, prioritizing features, conducting 
+user research, analyzing data, coordinating communications, amassing executives buyin. A 
+Product Manager needs to be able to break a complex project into manageable tasks and pri-
+oritize their executions by working closely with the engineering, marketing, and sales team. 
+I wanted to be more proactive 
+and more actively involved.
+23
+Before going into Product Management, did you have an engineering background?
+Although I did not have software engineering background, I do have a strong analytical 
+background, especially studying in math and working both finance and consulting. Having a 
+strong quantitative skills is becoming increasingly important as we rely more on data analysis 
+to make our product decisions. 
+What do you believe is unique to being a Product Manager at a startup instead of a 
+large company?
+When you are on the product team of a small 
+startup, everyone is a generalist because the 
+product is too young for specialization. For 
+me, this generalization has been the best part 
+about working at Work Market. Not only do 
+I write specifications, I also focus on user de-
+sign, data analysis and some front-end coding 
+as well. Eventually, as the company and the product team grow, it will become necessary to 
+have a team hierarchy and for each PM to own a specific vertical of the product.  
+What advice would you give someone who is coming from a non-engineering back-
+ground and is interested in product management?
+Switching careers in general can be a challenging task. First, network as much as possible 
+in the industry or field, product management here, that you are interested in by talking to 
+friends, friends of friends, alumni. Usually, you¡¯ll find your job opportunities through one of 
+those connections. But if not, you should browse job boards and VC websites because most 
+VCs list job openings at their portfolio companies. Personally, I¡¯ve found the VC listings very 
+helpful. Most importantly, you should know your story well. Why are you interested in Prod-
+uct Management? What skills can you leverage from your existing experience? How would 
+you contribute to the team right off from the start? Knowing your story will be key to convinc-
+ing your interviewers that they should hire you over someone who has existing experience in 
+PM. 
+Do you think there is anything particularly unique about being a woman in Product 
+Management? 
+While engineering is in fact a male-dominated field, I have never encountered any gender-re-
+lated issues ¡ª a caveat, my experience is limited to Work Market and thus, I don¡¯t think I have 
+enough experience to speak generally about this topic. 
+When you are on the product team 
+of a small startup, everyone is a 
+generalist.
+LILY HE
+24
+Do you have any advice you would give to young individuals who are aspiring to 
+work as Product Managers?
+If you are still in college, I would recommend do-
+ing an internship in product management. Product 
+management roles and responsibilities can be very 
+different depending on the size of the organization. 
+Thus, if possible, work in both small and big organi-
+zations to figure out what type of product manage-
+ment that you would like to do. 
+Also, take classes that will help build the skills that you¡¯ll need in product management such 
+as design, user interface, and statistical analysis. 
+Lastly, don¡¯t be afraid to reach out to firms that you are interested. Use your alumni connec-
+tion if it exists. 
+What are some specific things you¡¯ve done to develop the skills you believe a suc-
+cessful Product Manager needs to have?
+For me, I focused on learning everything about user interface and user design first since I did 
+not have a product background. I¡¯ve also become pretty proficient with HTML, CSS and a 
+little bit of jQuery. As a small product team, we try to help out our engineering team as much 
+as possible. So we frequently dig into the code and make small design tweaks and interface 
+changes. 
+Additionally, data analysis skills (using either SQL, Excel, Python or R) are a must so that you 
+can analyze your data to help you make better product decisions or run occasional ad-hoc 
+analysis. Conducting A/B testing and user research is also key to making good decisions. 
+Lastly, the ability to take feedback critically and effectively coordinating among various inter-
+nal teams are among some of the other skills that I¡¯ve developed on the job.  
+If possible, work in both small 
+and big organizations.
+LILY HE
+25
+SUNIL SAHA
+CEO of Perkville
+SUNIL¡¯S BACKGROUND
+Sunil graduated with a bachelor¡¯s in human biology from Stanford. He then went on to join a 
+medical device company before moving into a market research firm (which also specialized in 
+medical devices). Afterwards, he joined Neoforma, an internet company, where he fell in love 
+with the internet space and began his first foray into Product Management. From Neoforma, 
+he moved on to being a senior Product Manager at both Yahoo! and LinkedIn.
+Now he is the CEO of Perkville, a startup he co-founded in 2010 that is trying to eliminate 
+loyalty cards. 
+SUMMARY OF SUNIL¡¯S INTERVIEW 
+ 
+In his following interview, Sunil touches upon:
+? What Product Managers should focus on early in their roles
+? The top four metrics he uses to measure success
+? Valuable things to do as a young Product Management intern
+? And more!
+Read on to learn more from Sunil!
+26
+SUNIL¡¯S ANSWERS
+In your opinion, what are the goals and purpose of Product Managers? What are 
+some of the most valuable skills that a young aspiring Product Manager could de-
+velop?
+The main goal of a Product Manager is to improve the business. Whatever the bottom line 
+may be, your goal is to move it in a positive direction.
+If you¡¯re joining the team in a short term role such as an internship, then it¡¯ll be difficult to 
+make a big impact. If I were doing an internship in product management, I would focus on 
+one project and release it from start to finish. Try to get a feature out that has a meaningful 
+impact on the business. This experience will teach you how to lead a team. 
+Typically, as a Product Manager, no one officially reports to you, but you still need to muster 
+the charisma and resources to lead.
+Doing something like owning a product is 
+valuable during a stint as a Product Manager 
+because it¡¯s very results-oriented and action-
+able. It¡¯ll teach you leadership and how to 
+scope down to a feature to the bare minimum 
+and hopefully release it within a few weeks. 
+A lot of PMs are not good at scoping things down to a small chunk.
+And when you go through the internship, whatever product you¡¯re working on, make sure 
+it¡¯s measurable. A/B test new features for increased retention, engagement, and whatever oth-
+er metrics you¡¯re testing against.
+I¡¯ve heard that it¡¯s heavily preferred for Product Managers to have technical back-
+grounds (e.g., they¡¯ve previously been engineers). What advice would you give to 
+someone who may not have as much of a technical background but is still aspiring 
+to work as a Product Manager?
+I actually don¡¯t think you need a super technical background to be a good PM. However, you 
+do need to understand data. You do also need to be able to do some basic querying, such as 
+via SQL. That way you can speed up the analytical process because you can run the queries 
+yourself without having to go through someone else to get information. 
+But as long as you have a good mind for numbers and statistics, you should be in good shape. 
+Remember that the engineers are there to do the coding. You, as the PM, are there to drive the 
+business forward.
+Whatever product you¡¯re working 
+on, make sure it¡¯s measurable.
+27
+What would be some valuable things for Product Managers to focus on early in their 
+role?
+One thing I would be is extremely skeptical about the feature ideas that people have. Eighty 
+percent of ideas that people come up with probably won¡¯t yield good results. As a Product 
+Manager, start with this assumption ¡ª be extremely skeptical about the features you work 
+on. 
+Of the 80% of ideas that flop, I would say 80% of them flop because they are just plain bad 
+ideas. 20% of them flop because of execution. So focus on ideas, yet still be skeptical of them.
+Analyze the data, understand the customers (e.g., look at customer support tickets), make an 
+effort to interview customers to look at the problems people are having.
+As a new Product Manager, it would be valuable 
+to first look at the product¡¯s historical metrics to 
+see how they¡¯ve been growing over time.  Look at 
+past projects, what¡¯s been successful, what hasn¡¯t. 
+Doing these things will yield valuable frameworks 
+upon which you can build your own experience.
+What are some mental models you use to view the quality of a product? In other 
+words, what are the criteria you use for judging how successful a product is?
+The top 3 criteria that are used, almost de facto, at any company are:
+1. Revenue ¡ª pretty self-evident
+2. Usage levels and frequency (MAU, DAU)
+3. Growth of product (number of users)
+For an education product that you may do an internship on, there¡¯s probably more specific 
+metrics such as whether it¡¯s improving test scores.
+What is the most unique skill you¡¯ve seen a PM have that made them exceptional?
+I would say the ability to develop the simplest solution to a problem possible as described 
+here: The One Cost Engineers and Product Managers Don¡¯t Consider. 
+Complexity adds development, maintenance, implementation, training, etc cost so keeping it 
+simple is very important. 
+One example of a Product Manager who did an exceptional job of this is Marissa Mayer, who 
+kept the Google home page simple and clean despite what I¡¯m sure was immense pressure to 
+leverage its traffic for other Google properties.
+SUNIL SAHA
+Focus on ideas and yet still be 
+skeptical of them.
+28
+What are the metrics you use in measuring your own success? Which ones are the 
+highest priority, and why?
+Now as CEO, I¡¯ve realized that this is the best training to be a better Product Manager. And to 
+be honest, Product Management is great training for becoming a CEO. As CEO, I use look at 
+several metrics, but most important in my current startup are ¡­
+1. Growth in or toward profitability as a function of ¡­
+ a. Revenue growth
+ b. Gross margin improvement
+ c. Customer acquisition cost
+ d. Churn reduction
+2. Runway for the company as a function of ¡­
+ a. Cash in the bank
+ b. Monthly burn rate
+3. Market share
+4. Customer support satisfaction
+SUNIL SAHA
+29
+SEAN GABRIEL
+Program Manager at Microsoft
+SEAN¡¯S BACKGROUND
+Sean is a Program Manager on the Xbox Music, Video and Ads team. Starting from a hobby-
+ist background in web development, he interned as a PM on the Microsoft FrontPage team, 
+returning to the Office division for a full-time PM position after graduating. He was a PM 
+for several teams in Office, contributing to areas like human workflow and classroom educa-
+tion, before joining the Xbox division to build multimedia experiences. On the side, he¡¯s also 
+moonlighted for a startup focused on structured debates. Sean graduated with a B.S. degree 
+in Electrical Engineering and Computer Science from UC Berkeley and has been a PM at Mi-
+crosoft for almost seven years.
+SUMMARY OF SEAN¡¯S INTERVIEW 
+ 
+In his interview, Sean covers:
+? How Microsoft¡¯s PM role differs from other companies 
+? What he¡¯s learned from the mistakes he¡¯s made
+? Whether you should jump into a PM role immediately after graduation
+? And more!
+Read on to learn more from Sean!
+30
+SEAN¡¯S ANSWERS
+Can you explain the PM role at Microsoft? Why is the PM role at Microsoft known as 
+the ¡°Program Manager¡± and how do you think it compares to similar roles at other 
+companies?
+Here at Microsoft, we separate the roles of Program Manager and Product Manager. Product 
+Manager is a role within marketing and it¡¯s usually a less technical role focused on strategy, 
+vision, delivering products to market, and sustaining business growth long-term. 
+There are elements of this in the Program Manager role, but another part of it is collaborating 
+with the team that is actually building the product and shepherding them toward their mis-
+sion. There¡¯s a mix of high-level vision as well as day-to-day work with developers and testers 
+to build the product. Here at Microsoft, Program Managers get to own the use scenarios, de-
+fining what a feature in the software should do. We get a lot of space and freedom to own the 
+feature, figure out what needs to be done, and make mistakes along the way. 
+The big deliverable for a Program Manager at Microsoft is the functional spec, defining every-
+thing that the feature needs to do to satisfy the user¡¯s needs, how it will work, how it will be 
+built, and justifications for all decisions.
+Why do you think the Program Manager is important to a team?
+A team without a PM is going to be very heavily 
+focused on execution but may not know if they 
+are going in the right direction. The big value a 
+PM provides is being a strong customer advocate, 
+helping people gut check: Are we going in the right 
+direction? Are we addressing the market? Are we 
+being competitive? Are we relevant to the customer? We have PMs on almost every team at 
+Microsoft to ensure that the precious time we spend coding features is what the market wants 
+and needs.
+The PM is often the jack-of-all-trades, master of none. We do a lot of talking to customers, 
+either through customer interviews, internal dogfooding, and/or collaboration with user re-
+searchers. I once went to Oklahoma City to visit a SharePoint customer. The company was 
+an energy company, and we learned how SharePoint was critical to getting energy to a lot of 
+people. At the site visit, I got to see how our customers were really using our technology and 
+how we could improve our technology to make people¡¯s jobs work better. 
+What is your experience with making mistakes as a PM?
+I make mistakes everyday. Now that Microsoft is beginning to move more quickly, on a more 
+The PM is often the jack-of-all-
+trades, master of none.
+31
+agile development process, I have the flexibility to fail every day. Because we¡¯re doing every-
+thing in bite-sized chunks, we can more quickly adapt to whatever is changing around us. 
+That¡¯s not a specific answer, but I think it¡¯s important. We used to make much larger mistakes 
+and paid a lot for them in the past. Now, as a company moving more quickly, we know it¡¯s 
+okay to make mistakes, but we should recover from them more quickly. It¡¯s better to make a 
+bite-sized mistake that will only sting a little, rather than chewing your foot off and taking a 
+long time to recover.
+How has your role as a PM been changing over the last 7 years?
+Some things are constant, such as the po-
+sition you¡¯re in and the way you interact 
+with people; the PM is often known as the 
+¡°glue¡± that holds the team together. What 
+has changed is the types of people I work 
+with, the disciplines they¡¯re from, and how 
+many of them are there. This changes depending on the team I¡¯m on, the part of the product 
+cycle we¡¯re in, and other factors. The particulars of my role have changed, but the general idea 
+of what I do hasn¡¯t changed much. And as you become more senior on teams, your scope of 
+responsibility increases, where you become responsible for larger features. PMs at a higher 
+level of the company do the same thing as individual contributor PMs, just at a much larger 
+scale.
+What specific skills do you think make a good PM and how do you develop these 
+skills?
+I break down the PM role into pillars of design, communication, and execution.
+1. Communication: This is tricky. Anyone can tell whether or not it¡¯s working, but it¡¯s hard 
+to explain why or how. This is the hardest one to teach. You have to like people. That¡¯s 
+very important for a PM. This doesn¡¯t necessarily mean you have to be outgoing or socia-
+ble. But you do have to be able to orchestrate people and rally them around your cause. 
+2. Execution: Attention to detail. The buck stops with you. Be aware of your accountabilities, 
+who is responsible for what, and don¡¯t be afraid to speak up when something needs to be 
+done.
+3. Design: There are usually rules and constraints to get you started with design. It¡¯s very im-
+portant here to have user empathy, being able to channel your customers and understand 
+their needs. This ends with delivering a functional spec, stating your design and how it 
+will work. In the end, it always comes back to the customer. You have to prove that what 
+you¡¯re doing is better for the customer. You are on the team as the customer¡¯s advocate.
+SEAN GABRIEL
+The big value a PM provides is being 
+a strong customer advocate.
+32
+What advice do you have for pushing your ideas forward as a young PM or even as 
+an intern?
+Interns are my favorite, because interns have an immunity card. Interns are immune to poli-
+tics, to the pressures of the schedule beyond your 12-week internship. If you¡¯re a young PM, 
+don¡¯t be afraid of your lack of experience. People hired you for a reason, because you show 
+promise, and they want to see you put that to the test. You¡¯re not entrenched in office politics, 
+so you should feel free to speak their mind. 
+The challenge for interns while they¡¯re here is to be able to make a big impact, not just on your 
+own team. There are a lot of resources and people here to talk to and toss ideas around with, 
+so make the most of it. How can you make everything happen in just twelve weeks? It starts 
+with being confident and not being afraid to speak up and get stuff done.
+What criteria do you use to measure your own success as a PM?
+I firmly believe in the concept of the PM as the ¡°ser-
+vant leader¡± of the team. You¡¯re given the mantel-
+piece to drive design and requirements, but at the 
+end of the day you need to go convince other peo-
+ple who you are not the boss of to go do the things 
+you want them to do. So every day, I look around 
+me and ask, ¡°Are people around me happy?¡± If they¡¯re not, especially regarding the things 
+in my control, I might not be doing my job well. Are my developers happy? Are my testers 
+happy? Are my leads happy? If everyone seems like they don¡¯t need me, then that¡¯s an ideal 
+situation. It means I¡¯ve done a good enough job selling the idea to them, and they will just run 
+with it and work it out.
+Long term, I measure success in terms of the scope of what I¡¯m working on. Beyond just pro-
+motions and levels, I¡¯m excited about being able to work on the size of problems and types of 
+problems I¡¯m interested in. Now that I¡¯m working in Xbox on consumer technology, I feel like 
+I¡¯m in the place of my own personal passion, and I think that¡¯s a good place to be.
+Would you recommend jumping into a PM role immediately after graduation or be-
+ginning with another role such as developer or designer first?
+This is an age-old question: Who¡¯s the better PM, the one who started as a PM or the one who 
+did something else first? In my experience, I¡¯ve seen both be wildly successful. There¡¯s a cer-
+tain skillset that makes good PMs, and if you have it, then that¡¯s all you need to make it here.
+I would say it¡¯s important to understand other disciplines so that your team can understand 
+that you¡¯ve been in their shoes. It helps if you have a technical background (basic scripting is 
+sufficient programming experience for most PMs) so that you have a sense of what the team 
+is talking about when you¡¯re staring at their screens figuring out an issue. I don¡¯t think you 
+SEAN GABRIEL
+[The PM is] the ¡°servant leader¡± 
+of the team.
+33
+need to have done a ton of programming before being a PM, but it¡¯s good to have a little bit 
+of exposure.
+Diversity of experience among PMs is important, too, because you can bring your area of ex-
+pertise, whether it¡¯s technical, business, or design, to the team. This creates a wealth of opin-
+ions, which means more and better ideas.
+Imagine you¡¯re at an elementary school on Career Day. How do you explain to the 
+kids what a Program Manager does?
+I would tell people that I¡¯m a Jedi knight. Being a 
+PM means seeing your ideas and creations take a 
+life of their own. A lot of what the PM does is get-
+ting the ball rolling and seeing everyone that you 
+work with take the ball and carry it over the finish 
+line. It¡¯s kind of like Jedi mind tricks, getting people 
+to do cool things without forcing them to do it. Almost like inception.
+SEAN GABRIEL
+The work of a PM is kind of 
+like doing Jedi mind tricks.
+34
+DAVID SHEIN
+Product Manager at Facebook
+DAVID¡¯S BACKGROUND
+David graduated in 2009 with an undergraduate degree in quantitative economics. He then 
+spent two years at the Kansas Federal Reserve doing macroeconomic research. Most recently, 
+David has spent the past two years working in corporate finance at McKinsey and Company.
+Although he has a deep interest in technology, he does not have any direct coding experience.
+He just transitioned from his role at McKinsey to work as a Product Manager at Facebook this 
+August in their RPM program (rotation PM program).
+SUMMARY OF DAVID¡¯S INTERVIEW
+ 
+In his following interview, David discusses:
+? Why he transitioned from consulting to Product Management
+? How he landed a job as a PM at Facebook without a technical background
+? How to excel as a non-technical PM
+? And more!
+Read on to learn more from David!
+35
+DAVID¡¯S ANSWERS
+What made you decide on transitioning from consulting to Product Management?
+I came about this role in a rather serendipitous way. I wasn¡¯t actively looking into becoming 
+a Product Manager, but Facebook had reached out to McKinsey about consultants that might 
+be interested in a potential role at Facebook.
+This surprised me because most Product Managers tend to have backgrounds as engineers, 
+designers, CEOs, or COOs. I was able to fortunately secure a position and was hired by Face-
+book to become a Product Manager.
+In your opinion, what are the goals and purpose of Product Managers?
+I think that Product Management roles are 
+about aligning resources, the user experi-
+ence, a deep understanding of the customer, 
+and the market. That generally means that 
+even if you don¡¯t have to have a technical 
+background, you should still understand the 
+language and be able to engage intelligently with your team members who are from different 
+backgrounds.
+In addition to the above, two more points that I would say are heavily important are:
+1. Understand the product that you¡¯re dealing with at a very intimate level. That means un-
+derstanding how people interact with your product to a very deep degree. You need to 
+understand how they¡¯re understanding the product and their goals and frustrations. 
+2. Learn how to communicate effectively. You¡¯re going to have to come in and rely upon the 
+engineers to do the coding, so you need to make sure you can easily explain what you¡¯re 
+trying to get done and what you need to get done. 
+Ultimately, I think that the primary goal would be to actually ship a product.
+As someone who doesn¡¯t come from a background of engineering, what are your 
+thoughts on working as a Product Manager at a heavily technical company?
+I don¡¯t think that my lack of a technical background will hinder my ability to excel. When I 
+was learning more about the potential of the role, I asked myself: Could I really succeed with-
+out a technical background? I heard from Facebook that they actually had confidence that I 
+could.
+When speaking with other people without a technical background who had joined the pro-
+gram the prior year and were successful the key was not about understanding how the indi-
+Understand the product that you¡¯re 
+dealing with at a very intimate level.
+36
+vidual lines of code are written, but learning to speak the language of engineers and designers 
+as well as effectively allocating and leveraging resources across the organization
+One thing that was suggested was to quickly learn how to ask the right questions and speak 
+the right lingo.
+For example, if Facebook is looking to release a new feature, as a Product Manager, you need 
+to be able to understand when people you¡¯re working with start explaining the implementa-
+tion and design choices behind various components of features. I don¡¯t think you necessarily 
+need to understand the detailed technical implementation, but you do need to be up to par in 
+the language and terminology used in the discussion so you can understand and contribute.
+None of this is to say that it still isn¡¯t great to have a technical background going in. It¡¯s just 
+meant to show that it may not be completely necessary to have been an engineer or designer 
+prior to stepping into a Product Management role.
+What are some examples of strategies you prepared for securing a role as a Product 
+Manager at technology companies?
+Broadly speaking, it was three points. First 
+off, I spent a lot of time learning a lot about 
+the product. I delved into the product both at 
+the front end and back end (e.g., when look-
+ing at Facebook Places, what could be added 
+to it and how would it need to grow to help 
+deliver a new and differentiated impact to people). Secondly, I sat back and thought strategi-
+cally about how I would actually use this product (e.g., how do I use Graph Search on a daily 
+basis). Thirdly and finally, I took a macro-level view and thought about the scope and scale 
+of the product (e.g., what products does Facebook currently not have in the market and what 
+would I add to their product portfolio if hired tomorrow).
+Thinking about a product at these three levels, from the highest view to the lowest, will help 
+you understand the product at a deep enough level to make some reasoned and intelligent 
+judgments about the product you¡¯re working with.
+DAVID SHEIN
+Quickly learn how to ask the right 
+questions and speak the right lingo.
+37
+PAUL ROSANIA
+Senior Product Manager at Twitter
+PAUL¡¯S BACKGROUND
+Paul graduated CS from Dartmouth in 2005. He did consulting for a few years, before starting 
+a business called CollegeJobConnect. It ended up failing, but through the process he got a call 
+from a notable Silicon Valley founder, who had heard of Paul and wanted to see if he would 
+be a good fit to join their startup as the first Growth Hacker.
+Paul said yes, moved out to SV in 2011 and spent 1 year working there.
+He then got a call from Twitter; he had been able to 10x growth at the startup, doing both en-
+gineering and product strategy, but realized that he wanted to move to more of a pure prod-
+uct-related role, and to try his skills on a much bigger stage. So he accepted Twitter¡¯s offer and 
+has now been at Twitter about 10 months.
+You can follow Paul on Twitter at @ptr.
+SUMMARY OF PAUL¡¯S INTERVIEW
+ 
+In this following interview, Paul shares his insights on:
+? How Product Managers are like sports coaches
+? What it means to be an advocate for the user
+? The 3 most fundamental skills a success PM should have
+? The most important thing he¡¯s learned as a PM at Twitter
+? And more!
+Read on to learn more from Paul!
+38
+PAUL¡¯S ANSWERS
+You¡¯ve had a very interesting background up to your role now at Twitter. Can you talk 
+a little bit about how you got to where you are now?
+I wandered a bit, early on in my career. Prior to Twitter, I worked as an engineer at two start-
+ups, founded one, and also spent three years doing management consulting. At the most re-
+cent startup, I was the first person to spend 100% of my time focused on growth. As a result, 
+I split my time between product management ¡ª brainstorming, roadmapping, prioritizing, 
+etc. ¡ª and engineering.
+Coming to Twitter, I chose to go all-in on product management. Twitter¡¯s full of world-class 
+engineers, and I felt I had more to add on the product side. I¡¯m a Computer Science major by 
+education, but my passion has always been in products, and designing and shipping them 
+by any means necessary. Going into Twitter, I wanted to play to those strengths, particularly 
+product leadership, long-term planning, and doing what it takes to get things shipped. So I 
+decided to do PM at Twitter, initially in Growth. My role at Twitter has evolved over the past 
+few months, and rather than being concentrated on Growth I¡¯m starting to spread out and 
+work on other things around the company.
+In your opinion, what are the goals and purpose of Product Managers? What are 
+some of the most valuable skills I could develop in a short-term internship as a 
+Product Management Intern?
+The exact role of Product Management 
+varies from company to company. For 
+starters, some companies combine prod-
+uct and project management into one 
+role. Others split them apart. Those that 
+split them have different ways of balanc-
+ing the two. With project management, your number one goal is to make sure that the thing 
+you¡¯re working on actually ships. With product management, your goal is to make sure you¡¯re 
+building the right product, with the right set of priorities, in a manner consistent with compa-
+ny goals, while constantly advocating for the user.
+At Twitter, we collaborate with Technical Program Managers (TPMs), who are interdisciplin-
+ary, but function somewhat like project managers. On our biggest and most complex projects, 
+I collaborate with a TPM. On others projects, I take on project management responsibility 
+directly.
+I think this reflects on an important aspect of success as a PM: doing whatever jobs need doing 
+to get your project into your customers¡¯ hands. A big part of my job is doing whatever dirty 
+work is necessary so the real work can get done. Often, that means writing email, or repre-
+Someone needs to spend every waking 
+hour laser-focused on the customer.
+39
+senting the team in meetings. Whatever makes the process of building software as smooth as 
+possible for my team.
+Every once in awhile someone I hear someone ask if PMs are really necessary. After all, I work 
+with a lot of engineers who have a strong intuitive sense for what a good product looks like. 
+But if an engineer asks me, I tend to ask in return, ¡°Do you want to spend your time building? 
+Or do you want to spend your time doing all the planning and coordinating?¡± A lot goes into 
+shipping products, beyond writing code and having an eye for quality.
+When you¡¯re engrossed in building software, 
+you don¡¯t always get direct exposure to users 
+themselves. Part of a PM¡¯s job is to remain con-
+nected to the people who live with the product 
+you ship. At Twitter this is particularly challeng-
+ing ¡ª with 200 million active users, it¡¯s really 
+hard to infer what people want, just by using 
+your gut or conversations with a few friends. It¡¯s just not a representative sample.
+So it takes some time to develop the right mental frame to start to design our products in the 
+right way, and this frame is a critical aspect of a PM¡¯s value. I think you could fire all the PM¡¯s 
+at Twitter, or at most companies, and not notice anything wrong for a couple months. And 
+then you¡¯d notice what you¡¯re building is losing traction in the market, or you¡¯re shipping fea-
+tures your users don¡¯t care about. Someone needs to spend every waking hour laser-focused 
+on the customer. PM¡¯s keep you honest on that front.
+One last thing on being a great PM, by way of analogy. A PM is like a sports coach. You don¡¯t 
+manage the players directly or negotiate their contracts. All of your influence is indirect. Your 
+success, and ultimately your team¡¯s success, lies in your ability to lead. If the players don¡¯t 
+respect you, your job becomes impossible.
+Great PMs guide their teams to success, without ever setting foot on the metaphorical playing 
+field. They are the glue that sticks the team together, empowers them to succeed, and keeps 
+them focused on the goal.
+As for skills to focus on, I think there are three fundamentals: organization, communication, 
+and thought leadership.
+Organization is the key to success. It¡¯s trite, but true. I mentioned earlier that the PM does 
+whatever it takes to ship product, and part of doing that is not forgetting what needs to be 
+done. Figure out a way to organize your thoughts, questions, and to-dos. I¡¯ve spent a lot of 
+time creating a system that works for me, and I refine it constantly. Ultimately, this means my 
+manager can trust me to get things done without oversight, and my team knows when they 
+pass things to me they don¡¯t have to worry about whether I¡¯ll follow up.
+Communication helps indirectly. To be effective as a PM, you need to be perceived as a reli-
+able hub for your product. Otherwise, people will go directly to members of your team, dis-
+tracting them and slowing your project. At a minimum this means prompt, clear and succinct 
+responses to questions. (And a lot of email!) At the next level, this means laying out and evan-
+gelizing the medium and long term goals and roadmap for your project. When people know 
+Make sure that you¡¯re building 
+the right product and advocating 
+for the user.
+PAUL ROSANIA
+40
+what you¡¯re planning to do and why, they¡¯re more likely to leave you alone and let you and 
+your team execute your vision.
+Thought leadership means knowing your product and industry cold, and having a clear and 
+passionate vision for where you want your product to go. This might seem like the most 
+important thing, but without organization and communication, you¡¯re faced with shoddy 
+thought leadership, or a beautiful roadmap no one knows about or respects.
+What do you mean by being an ¡®advocate for the user¡¯?
+Let me give you a specific example from Twitter. Think 
+about our signup process for a second. Everyone who 
+uses Twitter can explain intuitively why you need to have 
+a username. Without one, no one could find your profile 
+to follow you, and there would be no way to @-mention 
+you. But if you talk to potential users, you encounter peo-
+ple who have no idea why the signup process is the way it is. What¡¯s a username? Why would 
+I need one?
+Eventually, you start to identify patterns in user feedback, where your customer doesn¡¯t have 
+the same understanding of your product that you think they do. As a PM, it¡¯s your job to iden-
+tify these patterns. Over time, the patterns form into broad intuitions about how users will 
+approach your product, and you surprise yourself by guessing user feedback before you hear 
+it. This is what I mean by advocating for the user. It¡¯s my job to make sure that we don¡¯t lose 
+the broader customer experience.
+As a new PM, your intuition will be raw, but you can overcome that by talking to customers. 
+At first, the patterns you find will be simple: people struggle with passwords. But over time, 
+you start to detect broader heuristics: web forms can never be too simple or straightforward. 
+You start to connect these heuristics to each other, and generalize. Through repetition and 
+generalization, these heuristics build a foundation for intuitive product sense.
+What do you do as a PM at Twitter to make sure you¡¯re consistently in tune and em-
+pathizing with the end users?
+There are many tactics, but only one strategy: talk to your users.
+We¡¯re a little spoiled at Twitter, because we have a dedicated user research team keeping us 
+connected to our audience. I immerse myself in their results whenever I can. This luxury is 
+dangerous though, since it¡¯s indirect. As a PM, it¡¯s easy to interpret research results abstractly, 
+and start to think of users in terms of cohorts and percentages.
+Quantitative data is critical, but it¡¯s also critical to stay connected to real humans who use 
+your software. I also volunteer occasionally, helping people with computer-related issues, and 
+there are often questions about Twitter. It¡¯s fascinating to watch people do even the simplest 
+things, like logging in. Many people will do basic things like repeatedly type their password 
+Don¡¯t lose the broader 
+customer experience.
+PAUL ROSANIA
+41
+wrong. After a few tries, they might even conclude that there¡¯s a bug with Twitter instead of 
+realizing that they¡¯ve just been typing their password wrong the whole time.
+These are legitimate user problems, and it helps to be there with them to witness it first hand. 
+Otherwise it feels too abstract. We¡¯re humans after all.
+So I think empathy is the right word, but at the same time I don¡¯t think you can identify all of 
+these things just by being empathetic.
+I envy teams whose customers arrive with credit cards in hand. Paying customers are either 
+happy or angrily calling demanding to deliver feedback to you. It¡¯s painful to hear it some-
+times, but at least they¡¯re giving explicit feedback. I don¡¯t ever get that, and I can¡¯t just call up a 
+handful of our 200+ million users hoping to get an accurate representation of the user base. So 
+I have a particular challenge understanding the ¡®average¡¯ user. This is where our user research 
+team really saves the day. They conduct studies of all sizes, drilling in on all kinds of problems 
+in a way that accurately represents our massive user base.
+What would you say is one of the most important things you¡¯ve learned as a Product 
+Manager at Twitter?
+I used to catch myself asking other people questions when I already knew what they were 
+going to say. Or I would have a tingling sense in the back of my brain that something was off 
+with a deliverable. For example, someone might ask me what the next steps for a project are. 
+I¡¯d write a few bullets into an email, and as I hit ¡°send¡± I would already know exactly the first 
+question they were going to ask. But I wouldn¡¯t write it in, maybe out of laziness. Without 
+fail, they would ask that follow-up question. And all you can think about to yourself in that 
+moment is, ¡°How did I know and why didn¡¯t I answer it?¡±
+I encountered this a lot in my early career, but once I be-
+came a PM, I knew I had to fix it fundamentally. For PMs, 
+it¡¯s a critical failure. You really need to guard against it. 
+You¡¯re expected to be the person who notices incomplete 
+work, when you do it and when other people do it. Other-
+wise you will ship an A- product. You¡¯ll know in your heart it¡¯s an A- and it will end up being 
+an A-. As a PM, that¡¯s unacceptable. The buck stops with you.
+You can¡¯t count on someone else calling you out if your product is subpar. You were hired to 
+be the arbiter of that, and other people won¡¯t even necessarily know the right questions to ask.
+What are some of your responsibilities as a Product Manager at Twitter?
+I mentioned earlier that organization, communication, and thought leadership are great skills 
+to develop. These are some of the cornerstone responsibilities of a PM at Twitter.
+Diligence is another responsibility of every PM. The product you build is a reflection of you 
+and the effort you put into it. That means being honest (and sometimes critical) with yourself, 
+The buck stops with you.
+PAUL ROSANIA
+42
+your team and your work. A good PM wants to do what¡¯s right, even when it hurts. That 
+means doing homework and proving to yourself and others that your product is as good as 
+you think it is, and your vision is ¡®correct¡¯.
+For me, this level of diligence was unnatural at first. There¡¯s so much stuff that happens each 
+day that your memory gets overloaded easily. I quickly realized I had to stop trying to keep 
+everything in my head. I had a couple instances where I forgot to do something I¡¯ d been asked 
+to do, or where I stepped into a meeting and realized I hadn¡¯t planned out what I was going 
+to say as much as I thought.
+Nowadays I write everything down immediately, even if I plan to do it right away. For simple 
+tasks, I use Things.app on my Mac. When I meet with someone, I jot down notes in Evernote 
+as we talk. As a result, I never forget to do things, and I never forget conversations with team 
+members. When I have product ideas I jot them into a running Google Doc for the project. 
+This system frees my mind from remembering things, and lets me concentrate on organizing 
+and planning without wasted cycles trying to remember things.
+I also find that writing helps me keep myself honest: sometimes an idea that seems crisp in 
+your head is hard to explain in prose. That¡¯s a sign your thinking isn¡¯t yet complete.
+One last thing I want to say is that as a PM, you don¡¯t 
+have a ton of control or flexibility over your own 
+time. You¡¯re often at the beck-and-call of meetings, 
+email and questions from other people. It¡¯s tempting 
+to fight back, but these obstacles are actually a part 
+of the job. Be honest about whether each meeting is 
+important, but also realize that by having distrac-
+tion-filled days, you¡¯re clearing distractions from your team. (And sometimes these meetings 
+help you collect information that keeps you alters your roadmap and keeps you focused on 
+the right goals, which saves time in the long run.)
+If you¡¯re feeling overwhelmed, don¡¯t be afraid to block off time to do long-term thinking. I put 
+one-to-two hour blocks on my calendar a few days a week when I¡¯m busy, to make sure I have 
+time to think. You need time to synthesize your thoughts, and if you don¡¯t reserve that time 
+other people will take it from you.
+I can program in Python and R, but don¡¯t have as concrete of development experi-
+ence as I¡¯ve heard many PMs have. As someone who has somewhat of a technical 
+background, what are some things I can do to compensate for this?
+Having a strong engineering background helps you as a PM in two ways.
+First, it helps you build a strong rapport with your engineers.  If you can walk the walk, 
+they¡¯re more likely to trust you to make judgment calls on their behalf, and not to overprom-
+ise when they¡¯re out of earshot.  You¡¯re also less likely to put your foot in your mouth talking 
+about the details of something you¡¯re asking them to build.
+Second, having a strong engineering background helps you estimate, which in turn allows 
+you to better coach your team by sniffing out opportunities to push them to new levels of per-
+A good PM wants to do what¡¯s 
+right, not boss people around.
+PAUL ROSANIA
+43
+formance. When you work with a really great team, and you know when to push, everyone 
+grows and your team, your company, and you all benefit.
+So to compensate for a lack of concrete experience, brainstorm ways to accomplish these 
+goals.  Find opportunities to hack on projects, ideally by writing code alongside your team.  
+At Twitter we have quarterly Hack Weeks, which are a great chance for me to stretch myself 
+and prove my mettle to the team I count on.
+I¡¯m concerned about the level of impact I can have in just 3 months at a company. I 
+want to learn a lot, and think I will, but I also want to get a chance to actually make an 
+impact. How did you spend your first 3 months in your first PM role, and what would 
+you do differently if you could redo it?
+I got my hands dirty right away, and I recommend 
+the same.  At Twitter, we always look for intern 
+projects that are substantial in size, allow the in-
+tern to really ¡°own¡± something they can drive to 
+completion on their own (with guidance), and are shippable in the 3 months they¡¯re on site.  
+Oh, and always, always real projects.  No practice projects or busywork.
+Hopefully your company lays out the same opportunities for you, but if they don¡¯t do it 
+instinctively, speak up!  You¡¯re right that there¡¯s a chance you won¡¯t make an impact.  But 
+you definitely can, I¡¯ve seen big impacts time and again from interns here.  Make sure you¡¯re 
+working on a real thing that¡¯s likely to ship before you leave, that you can point to when 
+you¡¯re gone.
+What are some mental models you use to view the quality of an educational prod-
+uct? In other words, what are the criteria you use for judging how successful a 
+product is?
+I don¡¯t have specific background in educational software, but I can speak generally:  Build a 
+product users love. Talk to them, listen to their feedback. State the problems you are trying to 
+solve clearly, up front, and always from the user¡¯s perspective. Break things down. Focus on 
+high leverage projects first.  Ship.
+I highly recommend reading Inspired by Marty Cagan.  It¡¯s a quick read, and it will help you 
+develop a framework for approaching product development.
+I¡¯ve often heard the advice that I should do a ¡°technical¡± job first for a few years be-
+fore jumping into PM, because it¡¯s hard to switch back to a ¡°technical¡± job (such as 
+programming, designing) after doing a PM role. What do you think of this advice? Is 
+it a good idea to jump right into the PM role after graduation, or is it better to do a 
+regular role first and move in to the PM role?
+The best career advice I ever received was, ¡°you can¡¯t do what you want by doing something 
+PAUL ROSANIA
+I got my hands dirty right away.
+44
+else.¡± Do what you love. Worry less about a hypothetical career switch. If your passion really 
+is in product management, you won¡¯t leave it.
+(Oh, and the world is clamoring for talented designers and engineers. If you need to make that 
+switch later, you¡¯ll find work.)
+PAUL ROSANIA
+45
+LAYLA AMJADI
+Product Manager at Facebook
+LAYLA¡¯S BACKGROUND
+Layla was most recently a Senior Associate Consultant at The Bridgespan Group, a manage-
+ment consulting firm that serves the nonprofit sector. At Bridgespan she built significant ex-
+pertise in philanthropy and served as the Product Manager on a groundbreaking philanthro-
+py video series titled ¡°Conversations with Remarkable Givers.¡± The series features original 
+interviews with 60 impressive philanthropists, including David Rubenstein, Pierre Omidyar, 
+and Melinda Gates. Clients from her casework included organizations, such as the United 
+Nations Foundation and Facing History and Ourselves. 
+Layla has also interned at Procter & Gamble in marketing and at the US Department of State 
+in the Bureau of Democracy, Human Rights, and Labor. She dedicated the majority of her un-
+dergraduate career to serving on the national managing committee of STAND, the student-led 
+division of the Genocide Intervention Network, which organizes hundreds of high school and 
+college chapters in to stop and prevent genocide. She was elected as the organization¡¯s Exec-
+utive Director in her senior year.
+Layla graduated from Harvard University with a B.A. in Government in 2010 and speaks Far-
+si and Spanish. She can be followed on Twitter at @LaylaAmjadi. 
+SUMMARY OF LAYLA¡¯S INTERVIEW
+ 
+In her following interview, Layla shares her thoughts on:
+? How to influence her team without authority
+? The most valuable skill all PM¡¯s should know
+? What is unique about being a female Product Manager
+? And more!
+Read on to learn more from Layla!
+46
+LAYLA¡¯S ANSWERS
+Can you talk a little bit about your background and what led you to product manage-
+ment?
+I graduated from Harvard in 2010 and had spent the majority of my undergrad working with 
+a non-profit organization called STAND (The Student-Led Division of the Genocide Interven-
+tion Network). STAND mobilizes hundreds of college and high school chapters on genocide 
+prevention advocacy. 
+While at STAND, I served as its National Programming Director in my junior year and the 
+Executive Director in my senior year. Throughout it all, I had the opportunity to work on 
+campaigns, websites, and events in a cross-functional role. I really enjoyed being able to work 
+with policy experts and grassroots organizes on one day, and web developers the next for any 
+given initiative. It was challenging, exciting, and I was always learning from my teammates. 
+So when it came time for my internship before my 
+senior year, I went looking for a role that would 
+emulate that cross-functional, hub-of-the-wheel 
+experience, which is why I pursued brand man-
+agement at Procter & Gamble. At P&G I got to 
+work with sales, R&D, PR, agency partners, busi-
+ness analysts, and point-of-purchase experts, so I 
+definitely got the cross-functional experience I wanted, but something didn¡¯t click for me. Part 
+of it was that I wasn¡¯t necessarily connecting to my product (cleaners) or ¡°her¡± (40 year old 
+moms), and another part was that P&G was a hierarchical environment that was a bit slow 
+moving and risk averse. I was the only undergraduate intern in the program, so I had plenty 
+of MBA intern mentors over that summer, and they recommended that I look into manage-
+ment consulting to expose myself to different types of organizations and really build up my 
+quantitative and strategic background. I took their advice and ended up going to work for The 
+Bridgespan Group, a non-profit consulting firm that was incubated at Bain & Company and 
+co-founded by Bain¡¯s former Managing Director. Interestingly, it was this consulting job that 
+opened the opportunity for me to work in a product management role.
+Bridgespan was given a large, multi-year grant from a prominent foundation to develop the 
+Give Smart initiative, an effort to support philanthropists to give effectively and accountably. 
+Part one of this initiative was the Give Smart book. Part two was an original video series show-
+casing the wisdom of 60 high-net-worth philanthropists from around the country. We devel-
+oped a TED Talks-like content platform with about 1,500 video clips, featuring 1-3 minute 
+sound bites from philanthropists like Melinda Gates, Michael J. Fox, Julian Robertson, Tom 
+Steyer, and David Rubenstein on a range of topics. I was more-or-less a Product Manager on 
+the video project. 
+So ultimately, through helping to build and populate this platform over the past 1.5 years at 
+Bridgespan, I came to really love the PM role as a I had come to understand it. Now I¡¯ll be 
+I came to really love the PM role 
+as I had come to understand it.
+47
+transitioning onwards to starting as a Product Manager at Facebook in August.
+How did this transition happen?
+As an organization grows, it can begin to take more risks on the types of people it hires for 
+any given role. I saw this in my consulting cases. I can imagine as Facebook has grown there¡¯s 
+been room to hire more people from different backgrounds for the PM role. I can see how 
+having a management consulting background as a PM would be helpful, because I think, at 
+its core, it¡¯s a strategic role. 
+If you were standing in a first-grade classroom and had to explain to the students 
+what a Product Manager is, what would you tell them?
+I would use the example of a puzzle and say 
+that a Product Manager works with a team to 
+decide what a puzzle will assemble to look like 
+when it is completed. Then the Product Man-
+ager works with the team to break it apart and 
+jumps in whenever necessary to help team-
+mates with their pieces. The PM then focuses 
+on working with the team to put the puzzle back together in a timely and efficient manner. 
+From my experience, as a Product Manager, you help your team decide the best way to spend 
+their time and resources on a project and keep everyone pumped along the way.
+From your experience at Bridgespan, what were some of the most valuable things 
+you learned about succeeding as a Product Manager?
+The  three major takeaways from my first PM experience were: 
+1. Avoid ¡°nice-to-haves¡±: As a PM, part of your job to make sure that the team is and feels 
+like they are using their limited time efficiently. This means avoiding workstreams that 
+are ¡°nice-to-have¡¯s¡± that won¡¯t necessarily change the the ¡°answer¡± or the direction of the 
+product. Understanding what is a ¡°nice-to-have¡± requires going through the hypotheti-
+cals. If a proposed piece of work could lead to ¡°X¡±  or ¡°Y¡± results, but we also know that 
+regardless of ¡°X¡± or ¡°Y¡± result, we¡¯d still do ¡°Z¡±, then that research might not be worth the 
+time. It doesn¡¯t change the answer. But you have to weigh the pros and cons and balance 
+efficiency with efficacy. Sometimes a workstream might not immediately impact a product 
+in the short run, but could build knowledge that will be useful down-the-line, or it could 
+be a way to satisfy the team¡¯s intellectual curiosity. So its not always cut and dry. There 
+are tradeoffs. 
+2. Influence without authority : This is a key part of being a Product Manager, and is admit-
+tedly a very difficult thing to learn how to do well. As a PM you are coordinating a team 
+of peers. You are working with other cross-functionals in the organization who might not 
+LAYLA AMJADI
+A PM works with a team to decide 
+what a puzzle will assemble to 
+look like when it¡¯s completed.
+48
+even have a time allocation for your product. You¡¯re not the boss. But, you are responsi-
+ble for executing the vision. So how do you navigate this? When I was working on the 
+Give Smart video project, this happened very naturally (it¡¯s important to be genuine) but I 
+built very strong, one-on-one relationships with each of my teammates on the project and 
+throughout the organization. I came to understand how important the project was for the 
+person given all the other work they have going on. You have to remember, just because 
+you are working 100% on something, doesn¡¯t mean everyone else is. So you have to under-
+stand the full set of projects someone has on their plate so you can help them prioritize. I 
+came to understand their likes, dislikes, what motivates them, what frustrates them. Hav-
+ing a really comprehensive understanding of the ¡°John the whole person / professional¡± 
+not just ¡°John the PR expert I need something from¡± is the only way to be successful in 
+¡°Influencing Without Authority.¡± You can¡¯t just think about what¡¯s in it for you all the 
+time. What¡¯s in it for them? What do they need? What do they want to learn? Having this 
+mindset is key to being successful in a working relationship where the person you need 
+something from doesn¡¯t have to do it.
+3. Overinvest in communication: Whenever I join 
+a new team, I overinvest in communication at the 
+beginning. This isn¡¯t because I¡¯m trying to mi-
+cromanage the situation. It¡¯s because I¡¯m trying 
+to sync up our brains. I want to understand my 
+team member¡¯s thought processes, biases, values, 
+and expertise. I want to get to a point where I can 
+anticipate what each team member¡¯s stance would be on a particular decision or what area 
+of the decision they would definitely want to weigh in on. I get to this point by constantly 
+asking ¡°Why?¡± This way, I can  understand their points-of-view and if they happen to not 
+be in the room at some decision-point, I can still represent their thoughts and advocate for 
+them. This does two things -- it builds trust between me and my teammates, and at the 
+same time it increases efficiency on the backend. Trust amongst teammates, I believe, leads 
+to faster, better results. To illustrate, if John is going into a meeting with Jen about X deci-
+sion, and I know John knows how I think and the calls I¡¯d make, I don¡¯t need to be in the 
+meeting, and I can repurpose my time in a way that would better benefit the team¡¯s needs. 
+What are some things you would say are in common with what you did at a non-prof-
+it like BridgeSpan and what Product Managers at technology companies might do? 
+At Bridgespan, I learned a very valuable skill that I think all Product Managers need to learn 
+to do: how to carefully say ¡°No.¡± This was very difficult for me to get comfortable with, espe-
+cially since I was the most junior person on the team and managing-up four senior leadership 
+members. 
+One story that illustrates this is when a partner wanted a very specific video-feature for the 
+website. He was very adamant that having this feature was a crucial part of the experience. 
+But my team and I didn¡¯t believe that we had the capacity to execute on the newly proposed 
+feature, and we didn¡¯t think that it would dramatically change the user experience. It wouldn¡¯t 
+LAYLA AMJADI
+You¡¯re not the boss. But you 
+are responsible for executing 
+the vision.
+49
+¡°change the answer.¡± So through bringing the facts to the table (i.e., this is how many resourc-
+es it would take and this is how many resources we have available), we were able to objective-
+ly say ¡®no.¡¯ 
+I think this story shows that as a Product Manager, you¡¯re likely in a high-energy place and 
+there are probably many people around you who are highly-skilled and have many great 
+ideas. But as a Product Manager, one of your jobs is to promote and feed this excited energy, 
+but channel it effectively, which will most likely require saying ¡®No¡¯ to some of these ideas.
+Yet there¡¯s nothing less empowering than saying ¡®No¡¯ to people all the time. To counteract 
+this, one of the most valuable things you can do at the beginning of any project is to work with 
+your team to develop a set of project priorities. As a team, you can evaluate new ideas against 
+this framework and decide in an objective fashion which ideas should be pursued. You give 
+everyone the ¡°saying no¡± responsibility in this way. 
+Thinking about this from the other side, I also learned 
+how to make it clear that I was keeping track of every-
+one¡¯s ideas. We had a team whiteboard that contained 
+an idea bank that everyone contributed to. Having this 
+be a public, visible bank of ideas showed my team that 
+I hadn¡¯t forgotten what they had mentioned, and that I 
+was actively looking for opportunities (i.e., time and resources) to make their ideas happen. 
+You need to show people that you are listening to their ideas, even if you have to say ¡®no¡¯ for 
+the time being. 
+Do you think there is anything particularly unique about being a woman in Product 
+Management? Do you have any advice you would give to women who aspired to 
+work as Product Managers?
+Honestly, I¡¯ve never felt evaluated by my peers on the axis of ¡®Woman¡¯ v. ¡®Non-Woman.¡¯ I 
+think the bias that I felt a lot more was more along the lines of ¡®Technical v. Non-Technical.¡¯
+In terms of advice I would give to others, I think that being a woman should be embraced as 
+an advantage. As a woman, you have a unique set of traits and abilities. You¡¯re naturally detail 
+oriented and zoned-in on people¡¯s thought processes. These are strengths to be leveraged, and 
+I¡¯ve never felt disadvantaged because I¡¯m a woman. Finally, many technical products have 
+user bases that are > 50% female. Having a woman¡¯s opinion in the room is important and 
+valued.
+You mentioned that you feel pressure along the ¡®Technical v. Non-Technical¡¯ axis. 
+As someone who doesn¡¯t have a technical background, what are your thoughts on 
+doing Product Management at a very engineering-driven company like Facebook?
+I think that whatever job you¡¯re in, you should always play to your strengths and try to sur-
+round yourself with those who can educate you and compensate for your weaknesses.
+LAYLA AMJADI
+All PMs need to learn how 
+to carefully say ¡°No.¡±
+50
+My strength is that I can coordinate the execution of a project with a timeline, and I¡¯ve been 
+told that I can keep people excited along the way, motivating them to do their best work. As 
+a choreographer, dancer, and amateur interior designer, photographer, and artist, I have also 
+developed a good gut for design and flow. So I¡¯m confident and comfortable in these areas. 
+Facebook has such strong teams of engineers that I¡¯m not worried about not having a techni-
+cal background. Plus, as a PM you¡¯re not telling engineers how to do their job, you are unlock-
+ing their knowledge and bringing it to bear when its time to make decisions. 
+What advice would you give to someone looking to work as a Product Manager com-
+ing from a non-technical perspective?
+Do your homework; be a sponge. Go to extra professional development opportunities to get 
+up to speed and make sure to become as knowledgeable as possible. Be a learner and respect-
+ful. Tell the team you work with that you want to learn from them and you want to grow from 
+working with them.
+Keep in mind that you¡¯re the coordinator, not the boss of the people you¡¯re working with. Go 
+into your role with confidence and humility.
+Given that you¡¯ll be starting at Facebook in August, what have you done, and what 
+will you be doing to prepare for your new role?
+I think that it¡¯s good to have terminology down for someone who¡¯s not as deep in the tech 
+world. So keeping up to date on the lingo by reading tech blogs and magazines is really im-
+portant. I¡¯ve been also deepening my knowledge about the tech ecosystem and technologies 
+that are used.
+Finally, I¡¯ve also been an avid user of the prod-
+uct. I¡¯ve been building my gut intuition as a 
+user and having specific anchor references in 
+my head that I can pull up in real-time during 
+meetings.
+So that means I¡¯ve been spending a lot of time on Google+ and Path and various different 
+messenger apps to survey the field and being cognizant of the designs that these apps chose 
+compared to the choices Facebook made. It¡¯s very helpful in orienting yourself to understand 
+the context these other apps are set in and the tensions they face.
+Are there any final thoughts you¡¯d like to share?
+Ultimately, my long-term goal is to bring technology and innovation to the problems the non-
+profit sector works to solve, because so far scaling nonprofit solutions to social problems has 
+proven to be very expensive. Technology can provide that platform for scale. And I also just 
+LAYLA AMJADI
+Surround yourself with those who 
+can educate you and compensate 
+for your weaknesses.
+51
+have a hard time believing that scaling nonprofits, one-by-one, to  $20-30M revenue ceilings is 
+going to change the world. All sectors (public, for profit, nonprofit) need to bring their unique 
+assets to bear on a problem. For example, CVS is a network of brick and mortar stores in a 
+range of communities across the country. CVS is a platform for scale. They rolled out Minute 
+Clinics faster than any community health organization could have rolled out their clinics. 
+And they are doing their part to increase access to 
+lower cost options for health care. And it helps their 
+bottom line. Win, win, win. What attracted me to 
+Facebook is that it¡¯s also a huge platform for scale, 
+they only difference is that users get to decide what 
+they¡¯d find most beneficial to roll through the net-
+work. 
+There aren¡¯t enough technical people in nonprofits. And they¡¯re aren¡¯t enough people who 
+are willing to take risks and do something totally out-of-the-box. If more people get into non-
+profits with a technology background, I believe that more solutions will reach more people in 
+increasingly cost-effective and innovative ways. 
+LAYLA AMJADI
+There aren¡¯t enough technical 
+people in nonprofits.
+52
+AVICHAL GARG
+Product Manager at Facebook
+AVICHAL¡¯S BACKGROUND
+Avichal is a product manager on Facebook¡¯s Platform team working on a new, undisclosed 
+product and managing the teams responsible for user facing platform products such as Face-
+book Login, social plugins (the Like button on 3rd party sites), and Timeline Collections. Pre-
+viously, he was co-founder and CEO of Spool (acquired by Facebook in 2012), co-founder and 
+CTO of PrepMe (acquired in 2011 by the Daily Mail Group, LON: DMGT), and was a product 
+manager at Google in Search Quality and Ads Quality as well as started Google Transit, one of 
+Google Map¡¯s core differentiating features. He has an M.S. and B.S. from Stanford University. 
+SUMMARY OF AVICHAL¡¯S INTERVIEW
+ 
+In his following interview, Avichal goes over:
+? What it means for a PM to be analytically skilled
+? The most unique skill that he has seen a PM have
+? How to develop great product sense
+? And more!
+Read on to learn more from Avichal!
+53
+AVICHAL¡¯S ANSWERS
+In your opinion, what are the goals and purpose of product managers? What are 
+some of the most valuable skills that a I could develop in a three-month period as a 
+Product Management Intern?
+I think that Product Managers play an editorial role on the team. There¡¯s a lot going on when 
+you¡¯re trying to get a product out the door, and someone needs to play the editor. Given this 
+perspective, I think one of hardest things about the role is figuring out, given your time, what 
+are you getting done and why?
+I¡¯ve heard from many of the other PM¡¯s that I¡¯ve spoken with as well that another 
+important role of a PM is motivating team members. Is this something that strikes 
+you as true for you?
+You do have to motivate people in addition as well. In my opinion, the vehicle for motivation 
+is the product vision that you¡¯re pitching. You know that quote about leading people to build 
+a ship?
+1
+ I think that really applies here for Product Managers and pitching a product vision 
+to the team.
+In terms of most valuable skills, here¡¯s an ex-
+ercise I would suggest doing: first, enumerate 
+what skills you need (technical understanding, 
+ability to evaluate tradeoffs, analytical skills, 
+design, persuasion). Then, you should think 
+about all of these and go over all what you feel 
+like you lack and what you can learn in three months. I would say that the easiest skill to pick 
+up would be the analytical bits. It¡¯s hard to become much more persuasive or a better designer 
+in three months. It¡¯s also harder to become a way better engineer in three months.
+So to recap: enumerate all of your skills and figure out what to double down on and what 
+you¡¯re interested in improving.
+In your opinion, what does it mean for a PM to be analytically skilled?
+Given a problem, can they (a) understand the problem? Can they (b) ask questions that have 
+simple data answers that lead you down the path of being able to solve that problem? (That 
+includes asking for simple metrics, quick metrics.) And finally, can they (c) generate a clear 
+hypothesis beforehand?
+1  The quote Avichal is referencing here is by Antoine de Saint Exup¨¦ry ¡ª ¡°If you want to build a ship, don¡¯t drum up people to 
+collect wood and don¡¯t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.¡±
+Enumerate all of your skills and 
+figure out what to double down on.
+54
+I can program in Python and R, but don¡¯t have as concrete of development experi-
+ence as I¡¯ve heard many PMs have. As someone who has somewhat of a technical 
+background, what are some things I can do to compensate for this?
+I think you should try to become more technical while you can in school. Generally, you be-
+come less technical over time, so hedge against this. Being technical is not a hard prerequisite 
+but it is incredibly valuable.
+The other direction you could go is to become more design-oriented. If you¡¯re a great design-
+er, you can also become a great PM. In general, you tend to see people who are successful in 
+one of those two roles.
+Something to keep in mind is that design doesn¡¯t 
+have an end state. In other words, there is no point 
+at which you just stop learning design. It¡¯s a con-
+tinual iterative process that you have to go through 
+to learn how to become a good designer ¡ª so start 
+early! What you tend to see is that designers tend 
+to get better as they get older. This is just as true for engineering.
+A lot of people don¡¯t think of skills such as design or programming as lifelong skills; they 
+think of things as thresholds. ¡°If I¡¯m ¡®good enough,¡¯ then I can stop¡± is the thought process. 
+But really, you have to keep on getting better and better at all of these things.
+Another thing to note is that design tends to be easier than engineering to do outside of school. 
+So my advice would be to study engineering in school, and on the design end you can be 
+self-driven to maintain.
+What are some mental models or patterns that you¡¯ve seen that make a high-quality 
+product?
+If I had to mention one thing, it¡¯d be that I think that high-quality products don¡¯t try to do 
+too much. They do one particular thing, and they do it exceptionally well. And that¡¯s the core 
+of their value proposition. And I think a lot of times, if you¡¯re not absolutely amazing at one 
+thing at a product, but instead spread across many different domains, then you tend to be 
+replaceable and not have lasting value.
+Look at Google, for example. Google at its core is still a search company. It took them many 
+years to get other products out the door, and that¡¯s something to take note of.
+What is the most unique skill you¡¯ve seen a PM have that made him or her excep-
+tional?
+I think if I had to try to pinpoint it, it would boil down to respect. When you¡¯re really good, 
+it¡¯s really easy to develop a big ego. But the best PMs I¡¯ve worked with don¡¯t have big egos. 
+They¡¯re not trying to be smarter than everyone in the room or put anyone down. For example, 
+AVICHAL GARG
+Neither design nor engineering 
+has an end state.
+55
+it¡¯s easy to blow junior people off when you¡¯re an executive at a big company, but the best 
+product leaders treat everyone with respect and humility. That¡¯s something that just reso-
+nates with people and makes them want to work for you that much more.
+One trait I¡¯ve heard mentioned before as being important to a Product Management 
+position is having product sense. In your opinion, how does one develop great prod-
+uct sense?
+It¡¯s a very hard thing to learn. I¡¯m not even 
+100% sure if you can effectively learn it. Ev-
+eryone who has had this skill seems to have 
+it innately. If you can synthesize human moti-
+vation and human desire into a tangible thing 
+(e.g., where the buttons go, what you name the 
+product) then you¡¯re on the right track. Maybe you can develop this through an extreme at-
+tention to detail. Dissect what makes something good and what makes something not good. 
+You can learn from that process.
+I guess as a whole, people who are good at noticing the little details tend to be able to pattern 
+match (e.g., what makes many other products great will probably make this one great) and 
+develop the product intuition necessary to be a great PM.
+What are the metrics you use in measuring your own success? Which ones are the 
+highest priority and why?
+The most important metric for me is freedom: ¡°Where can I have the most  long-term freedom 
+to learn, be happy, and have an impact?¡± For me, that¡¯s turned out to be having a couple of 
+startups before my current role at Facebook. This path has given me both financial freedom 
+and a skillset that gives me tremendous freedom inside a company that values innovative, 
+creative problem solving (which Facebook values tremendously).
+How much freedom do you feel you have in your Product Management role?
+I think that the PM position is pretty high in terms of the amount of freedom you get.
+Keep in mind that different companies also given you different flavors of PM.
+Facebook has a bias towards PMs who are strong in design or analytics. If you look at the back-
+grounds of people who work at FB, there are a lot of people who have diverse backgrounds, 
+such as in design or data analysis. Facebook is extremely data-driven and as a result, even a 
+design-driven PM here would probably need to have more of a background in analytics.
+It¡¯s also important to note that in terms of the difference between the top 0.1% of PM¡¯s, you 
+would find that the best of the best are highly skilled in both of these domains.
+AVICHAL GARG
+The best product leaders treat ev-
+eryone with respect and humility.
+56
+I¡¯ve often heard the advice that I should do a ¡°technical¡± job first for a few years 
+before jumping into PM, because it¡¯s hard to switch back to a ¡°technical¡± job (such 
+as programming, designing) after doing a PM role. Do you think it¡¯s a better idea to 
+jump right into the PM role after graduation, or should I do a regular role first and 
+move in to the PM role?
+I think it¡¯s fine either way. It¡¯s really a matter of 
+whether you think you have the requisite back-
+ground in technical abilities. It¡¯s okay to jump into 
+PM directly if you feel comfortable with your back-
+ground as either a technical individual or a design-
+er. Honestly, a lot of times, people coming out of 
+school tend not to have the requisite skillset yet. So if this is true for you, you should really go 
+build some of that skillset and get good at those areas before going into a Product Manage-
+ment role.
+For students who are interested in Product Management, but who might also feel like they 
+are lacking some important skills, here¡¯s what I would suggest: if you can get a PM job at a 
+tier-one organization (e.g., IDEO, Apple, FB, Google) to synthesize product work: go do it.
+If you can¡¯t, try to enumerate what gaps you have in your skills and fill those in. Maybe it¡¯s 
+engineering, or design, or something else. Build these skills with some time, and then take 
+another shot at it. That¡¯s not to say that being a PM at a tier-one large company is an end-state, 
+but it¡¯s a way of benchmarking yourself. It¡¯s a litmus test of whether you have these skills.
+It¡¯s probably the closest you can get to an SAT. So that might be a good proxy for whether you 
+should go off to develop deeper skillsets or not.
+AVICHAL GARG
+The most important metric for 
+me is freedom.
+57
+58
+CARL has been fortunate to receive so much help from the numerous people who assisted 
+in the creation of The Product Manager Handbook. The feedback many of his close friends gave 
+ended up being invaluable in guiding the direction this handbook took. He would especially 
+like to thank Chloe Lim for thoroughly editing the handbook and Gerson Abesamis for giving 
+thoughtful feedback on initial designs. He would also like to thank Gayle Laakmann McDow-
+ell and Jackie Bavaro for contributing their thoughtful advice and feedback.
+He would like to thank Brittany Cheng for agreeing to help with his wacky idea of compiling 
+a Product Manager Handbook. Without her sharp design skills and patient feedback, this 
+handbook would never have seen the light of day.
+Finally, this handbook would not at all have been possible if it wasn¡¯t for the generosity and 
+thoughtfulness by each and every of the successful Product Managers he interviewed. So to 
+them, Carl would like to express his sincere appreciation.
+BRITTANY would like to thank the many individuals who took time out of their busy PM 
+schedules to speak to her and Carl about the work of a PM. She would also like to thank Ed-
+ward Cheng for his design feedback during the initial development of the handbook layout. 
+Finally, she would like to thank Carl Shan for his initiative, organization, persistence, proac-
+tiveness, and daily onslaught of emails.
+ACKNOWLEDGMENTS
+59
+CARL SHAN is a lifelong student, mentor, teacher and aspiring Product Manager. With Brit-
+tany¡¯s help, he compiled this handbook to share what he learned through his conversations 
+about Product Management with as many people as possible. He is also the co-founder of 
+CompassPoint Mentorship, a national not-for-profit educational venture that matches high-
+school students up with college students for peer-to-peer mentoring.
+This summer, Carl worked as a Mobile Product Manager at Pearson in New York City. His 
+work led him to being nominated & selected by company executives as Pearson¡¯s ¡®Intern of 
+the Year.¡¯
+He currently studies Statistics at UC Berkeley.
+You can get in touch with him at carl@carlshan.com
+BRITTANY CHENG is passionate about technology, design, and education. Since taking her 
+first graphic design class in high school, she has not stopped designing. The PM role excites 
+her because it combines her love for design and her interest in technology. She is a co-director 
+of Berkeley Innovation, a human-centered design student organization at UC Berkeley, and 
+manages up to seven student design projects each semester.
+This summer, Brittany was a Program Manager Intern at Microsoft. She worked with design-
+ers and developers to design, spec, prototype, and implement new features and experiences 
+for Movie Moments, a Windows 8.1 app.
+She currently studies Electrical Engineering & Computer Science at UC Berkeley, with an em-
+phasis in human-centered design.
+You can get in touch with her at bcheng42@gmail.com
+ABOUT CARL & BRITTANY
+? 2013 Carl Shan and Brittany Cheng
