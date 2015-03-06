@@ -2,6 +2,7 @@ package com.weblee.Medium;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 
@@ -21,17 +22,60 @@ public class RepeatedDNASequences {
 	Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 	List<String> result = new ArrayList<String>();
 
-	int t = 0, i = 0, ss = s.length();
+	if (s.length() <= 10) {
+	    return result;
+	}
 
-	while (i < ss)
-	    
-	    if (map.get(t = (t << 3 | s.charAt(i++) & 7) & 0x3FFFFFFF) == 1) {
-		map.put(t = (t << 3 | s.charAt(i) & 7) & 0x3FFFFFFF,
-			map.get(t = (t << 3 | s.charAt(i) & 7) & 0x3FFFFFFF) + 1);
+	// encode
+	char[] convert = new char[26];
+	convert[0] = 0;
+	convert[2] = 1;
+	convert[6] = 2;
+	convert[19] = 3;
 
-		result.add(s.substring(i - 10, 10));
+	int hashValue = 0;
+
+	/*
+	 * the first 10 characters string
+	 */
+	for (int pos = 0; pos < 10; ++pos) {
+	    hashValue <<= 2;
+	    hashValue |= convert[s.charAt(pos) - 'A'];
+	}
+
+	// first 10-letter-long sequences encode -> value
+	map.put(hashValue, 1);
+
+	// remove duplicate
+	HashSet<Integer> set = new HashSet<>();
+
+	for (int pos = 10; pos < s.length(); ++pos) {
+	    // left 2 bit, equal to multiply 4
+	    hashValue <<= 2;
+	    // the 2 right bit valued encode of s.char(pos) 
+	    hashValue |= convert[s.charAt(pos) - 'A'];
+	    // 最高两位置0
+	    hashValue &= ~(0x300000);
+
+	    if (!map.containsKey(hashValue)) {
+		map.put(hashValue, 1);
+	    } else {
+		if (!set.contains(hashValue)) {
+		    // 10-letter-long sequences
+		    result.add(s.substring(pos - 9, pos + 1));
+
+		    set.add(hashValue);
+		}
+
+		map.replace(hashValue, 1 + map.get(hashValue));
 	    }
+	}
 
 	return result;
     }
+    
+    public static void main(String[] args) {
+	System.out.println(4 << 2);
+    }
+
 }
